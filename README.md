@@ -86,13 +86,7 @@ from YOLO-based computer vision to multi-agent LangChain pipelines and GenAI aut
 
 <br>
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishvasmetaliya07/vishvasmetaliya07/output/github-contribution-grid-snake.svg" />
-</p>
-
-<br>
 
 ## 📫 Connect with Me
 
